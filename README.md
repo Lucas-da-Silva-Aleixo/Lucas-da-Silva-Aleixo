@@ -1,4 +1,14 @@
+# Lucas da Silva Aleixo
+
+Learning To Code
+
 ### Hi there 👋
+
+I'm learning front-end and Java.
+
+🌱 I’m currently learning **Programming**
+😊 I can help you with **Video Editing** and **Photo Editing**
+✉️ Contacts: [Linkedin](https://www.linkedin.com/in/lucas-da-silva-aleixo-b8a747216) | [lucasdasilvaaleixo123@gmail.com]()
 
 <!--
 **Lucas-da-Silva-Aleixo/Lucas-da-Silva-Aleixo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
