@@ -6,8 +6,8 @@ Learning To Code
 
 I'm learning front-end and Java.
 
-🌱 I’m currently learning **Programming**
-😊 I can help you with **Video Editing** and **Photo Editing**
+🌱 I’m currently learning **Programming**<br>
+😊 I can help you with **Video Editing** and **Photo Editing**<br>
 ✉️ Contacts: [Linkedin](https://www.linkedin.com/in/lucas-da-silva-aleixo-b8a747216) | [lucasdasilvaaleixo123@gmail.com]()
 
 <!--
